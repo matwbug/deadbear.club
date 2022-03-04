@@ -1,0 +1,1 @@
+<script>alertar('Estamos te redirecionando para o instagram...','https://www.instagram.com/deadbear.club/')</script>

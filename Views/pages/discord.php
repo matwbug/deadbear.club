@@ -1,0 +1,1 @@
+<script>alertar('Estamos te redirecionando para o discord...','https://discord.gg/4aSCSM6')</script>

@@ -1,0 +1,8 @@
+{
+    "client_id": "Client_Id_18842c3db43845d006a6780fc2ed521f1bdb3850",
+    "client_secret": "Client_Secret_0ed31583522d276bc1056b32e51979585d821525",
+    "pix_cert": "Data/Certif/gerencianet.pem",
+    "sandbox": true,
+    "debug": false,
+    "timeout": 30
+}
